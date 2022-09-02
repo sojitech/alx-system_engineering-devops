@@ -1,1 +1,1 @@
-Task 0.Where I am?
+Diplay the contents list of current directory in a long format
